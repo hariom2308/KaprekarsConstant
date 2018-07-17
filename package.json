@@ -1,0 +1,19 @@
+{
+  "name": "kaprekarsconstant",
+  "version": "1.0.0",
+  "description": "coderbyte challenge",
+  "main": "rec.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+  "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "author": "Hari Om",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "nodemon": "^1.18.2"
+  }
+}
